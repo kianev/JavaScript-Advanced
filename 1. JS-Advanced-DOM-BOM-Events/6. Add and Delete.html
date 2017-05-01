@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Delete Items</title>
+</head>
+<body>
+<h1>List of Items</h1>
+<ul id="items">
+    <li class="red">Red</li>
+    <li class="blue">Blue</li>
+</ul>
+
+<input type="text" id="newText" />
+
+<input type="button" value="Add"
+       onclick="addItem()">
+<input type="button" value="Delete"
+       onclick="deleteItem()">
+
+<script>
+    function addItem() {
+        let items = document.getElementById("items");
+        let li = document.createElement("li");
+        li.className = "red";
+        li.textContent = "Red";
+        items.appendChild(li);
+    }
+    function deleteItem() {
+        let redElements = document.querySelectorAll("#items li.red");
+        redElements.forEach(li => {li.parentNode.removeChild(li)});
+    }
+</script>
+
+</body>
+</html>

@@ -15,7 +15,18 @@
     console.log(div.textContent);
     console.log(div.innerHTML);
     console.log(div.outerHTML);
-    div.style.background = "red";
+    //div.style.background = "red";
+
+    let list = document.createElement("ul");
+    let liPeter = document.createElement("li");
+    liPeter.textContent = "Peter";
+    list.appendChild(liPeter);
+
+    let liMaria = document.createElement("li");
+    liMaria.innerHTML = "<b>Maria</b>";
+    list.appendChild(liMaria);
+
+    document.body.appendChild(list);
 </script>
 </body>
 </html>
