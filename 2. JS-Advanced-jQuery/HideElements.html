@@ -4,22 +4,42 @@
     <meta charset="UTF-8">
     <title>Hide Elements</title>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"
-            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 </head>
 <body>
 <p>This is a <a href="https://softuni.bg">link</a>.
-</p><ul><li>one</li><li>two</li><li>three</li></ul>
+</p>
+<ul>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+</ul>
 <p>This is a <a href="https://softuni.bg">link</a>.
-</p><ul><li>one</li><li>two</li><li>three</li></ul>
+</p>
+<ul>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+</ul>
 <p>This is a <a href="https://softuni.bg">link</a>.
-</p><ul><li>one</li><li>two</li><li>three</li></ul>
+</p>
+<ul>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+</ul>
 <p>This is a <a href="https://softuni.bg">link</a>.
-</p><ul><li>one</li><li>two</li><li>three</li></ul>
+</p>
+<ul>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+</ul>
 
 <script>
     $(document).ready(function () {
         $("body *").click(function (event) {
-            $(this).fadeOut();
+            $(this).fadeOut(500);
             $(document.body).append(
                 "Removed: " + this + "<br>\n");
             event.preventDefault();
