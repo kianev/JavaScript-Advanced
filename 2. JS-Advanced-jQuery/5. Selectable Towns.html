@@ -7,7 +7,8 @@
         li {
             display: inline-block;
             cursor: pointer;
-            padding: 10px;
+            padding: 7px;
+            margin: 5px;
         }
         ul { padding:0; }
     </style>
@@ -24,15 +25,30 @@
 </ul>
 <button id="showTownsButton">Show Towns</button>
 <div id="selectedTowns"></div>
+<script>$(() => attachEvents());</script>
+
 <script>
-
-    $(attachEvents());
-
     function attachEvents() {
+        $("#showTownsButton").on("click", select);
+        $("#items li").on("click", selected);
 
+        function selected() {
+            if($(this).attr("data-selected")){
+                $(this).css("background", "");
+                $(this).removeAttr("data-selected");
+            }else{
+                $(this).css("background", "#DDD");
+                $(this).attr("data-selected", "true");
+            }
+
+        }
+        function select() {
+            let liSelected = $("#items li[data-selected=true]");
+            let towns = liSelected.toArray()
+                .map(li => li.textContent).join(", ");
+            $("#selectedTowns").text(towns);
+        }
     }
-
-
 </script>
 </body>
 </html>
