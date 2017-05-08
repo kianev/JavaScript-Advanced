@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Generator</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="wrapper">
+
+</div>
+
+<script>
+    window.onload = function () {
+        createBook("#wrapper", "Alice in Wonderland", "Lewis Carroll", 1111);
+        createBook("#wrapper", "The Stance", "King", 5555);
+    };
+
+     let createBook = ( function createBook() {
+            let id = 1;
+            return function (selector,title, author, isbn) {
+
+              let fragment = document.createDocumentFragment();
+              let container = $(selector);
+              let bookContainer = $("<div>");
+              let titleParagraph = $("<p>");
+              let authorParagraph = $("<p>");
+              let isbnParagraph = $("<p>");
+              let selectBtn = $("<button>Select</button>");
+              let deselectBtn = $("<button>Deselect</button>");
+
+              titleParagraph.text(title);
+              authorParagraph.text(author);
+              isbnParagraph.text(isbn);
+
+              bookContainer.attr("id", "book" + id);
+              id++;
+
+              titleParagraph.addClass("title");
+              authorParagraph.attr("class", "author");
+              isbnParagraph.addClass("isbn");
+
+              selectBtn.on("click",function () {
+                  bookContainer.css("border", "2px solid blue");
+              });
+
+              deselectBtn.on("click", function () {
+                  bookContainer.css("border","none");
+              });
+
+            bookContainer
+                .append(titleParagraph)
+                .append(authorParagraph)
+                .append(isbnParagraph)
+                .append(selectBtn)
+                .append(deselectBtn);
+            bookContainer.appendTo(fragment);
+            container.append(fragment);
+        }
+      }());
+
+</script>
+</body>
+</html>
