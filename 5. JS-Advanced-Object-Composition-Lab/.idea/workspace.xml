@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52667e76-a2d8-40c0-8271-1d7ec1a9d618" name="Default" comment="solutions">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../3. JS-Advanced-jQuery-DOM-Events-Exercises/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../3. JS-Advanced-jQuery-DOM-Events-Exercises/dom-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/.idea/6. JS-Advanced-Functions-and-Objects-Exercises.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/1.Sort Array.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../3. JS-Advanced-jQuery-DOM-Events-Exercises/6. DOM Search.html" afterPath="$PROJECT_DIR$/../3. JS-Advanced-jQuery-DOM-Events-Exercises/6.DOMSearch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/2.Argument Info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/3.Functional Sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/4.Personal BMI.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../3. JS-Advanced-jQuery-DOM-Events-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../3. JS-Advanced-jQuery-DOM-Events-Exercises/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.Cars.js" afterPath="$PROJECT_DIR$/4.Cars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/1.Sort Array.js" afterPath="$PROJECT_DIR$/../6. JS-Advanced-Functions-and-Objects-Exercises/1.Sort Array.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,17 +68,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.Cars.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="4.Cars.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4.Cars.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+            <state relative-caret-position="1679">
+              <caret line="82" column="27" lean-forward="true" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5.Sum.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="5.Sum.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.Sum.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
@@ -118,8 +114,8 @@
         <option value="$PROJECT_DIR$/revealingPattern.js" />
         <option value="$PROJECT_DIR$/3.List Processor.js" />
         <option value="$PROJECT_DIR$/objectInheritance.js" />
-        <option value="$PROJECT_DIR$/4.Cars.js" />
         <option value="$PROJECT_DIR$/5.Sum.js" />
+        <option value="$PROJECT_DIR$/4.Cars.js" />
       </list>
     </option>
   </component>
@@ -301,7 +297,7 @@
       <option name="presentableId" value="Default" />
       <updated>1497538290363</updated>
       <workItem from="1497538292755" duration="8076000" />
-      <workItem from="1497611136087" duration="14048000" />
+      <workItem from="1497611136087" duration="16175000" />
     </task>
     <task id="LOCAL-00001" summary="solutions">
       <created>1497725211303</created>
@@ -314,7 +310,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22124000" />
+    <option name="totallyTimeSpent" value="24251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -324,7 +320,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25931677" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25925925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -473,18 +469,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.Cars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5.Sum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Cars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="82" column="27" lean-forward="true" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
           <folding />
         </state>
       </provider>
