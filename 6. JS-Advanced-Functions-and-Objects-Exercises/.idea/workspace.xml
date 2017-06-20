@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58ebe03-9848-4e01-9de5-756c4570216a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.Vector Math.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.Breakfast Robot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../3. JS-Advanced-jQuery-DOM-Events-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../3. JS-Advanced-jQuery-DOM-Events-Exercises/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../5. JS-Advanced-Object-Composition-Lab/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../5. JS-Advanced-Object-Composition-Lab/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.Personal BMI.js" afterPath="$PROJECT_DIR$/4.Personal BMI.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,8 +73,8 @@
       <file leaf-file-name="6.Breakfast Robot.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/6.Breakfast Robot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1242">
-              <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+            <state relative-caret-position="299">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -292,12 +287,20 @@
       <option name="presentableId" value="Default" />
       <updated>1497770323252</updated>
       <workItem from="1497770326782" duration="9607000" />
-      <workItem from="1497935382510" duration="16126000" />
+      <workItem from="1497935382510" duration="16147000" />
     </task>
+    <task id="LOCAL-00001" summary="solutions">
+      <created>1497960386021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1497960386021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25733000" />
+    <option name="totallyTimeSpent" value="25754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -326,6 +329,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -415,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/6.Breakfast Robot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        <state relative-caret-position="299">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
