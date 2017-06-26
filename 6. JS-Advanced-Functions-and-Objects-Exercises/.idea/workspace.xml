@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b58ebe03-9848-4e01-9de5-756c4570216a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7.Monkey Patcher.js" afterPath="$PROJECT_DIR$/7.Monkey Patcher.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -289,7 +288,7 @@
       <updated>1497770323252</updated>
       <workItem from="1497770326782" duration="9607000" />
       <workItem from="1497935382510" duration="21310000" />
-      <workItem from="1497977068905" duration="4535000" />
+      <workItem from="1497977068905" duration="4572000" />
     </task>
     <task id="LOCAL-00001" summary="solutions">
       <created>1497960386021</created>
@@ -312,11 +311,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497970016223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Monkey Patcher another solution">
+      <created>1498025362890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1498025362890</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35452000" />
+    <option name="totallyTimeSpent" value="35489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -348,7 +354,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="solutions" />
+    <MESSAGE value="Monkey Patcher another solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monkey Patcher another solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
