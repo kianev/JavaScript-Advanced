@@ -44,7 +44,7 @@ let sharedObject = {
     }
 };
 
-describe("SharedObject", function () {
+/*describe("SharedObject", function () {
     it("Name property, should start with Null", function () {
         expect(sharedObject.name).to.equal(null,"Name did not start with Null");
     });
@@ -186,5 +186,5 @@ describe("SharedObject", function () {
             expect(sharedObject.income).to.equal(177, "Income changed incorrectly")
         });
     });
-});
+});*/
 
