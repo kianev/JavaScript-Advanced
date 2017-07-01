@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75912c45-3cac-4e4a-8161-0819bd31b80b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.DataClass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.Tickets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.Unity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.LengthLimit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.ExtensibleClass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.SortedList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.View Model.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.View Model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8.Custom Form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../11. JS-Advanced-Class-Inheritance-and-Prototypes/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../11. JS-Advanced-Class-Inheritance-and-Prototypes/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../7. JS-Advanced-Objects-and-Inheritance-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../7. JS-Advanced-Objects-and-Inheritance-Exercises/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../9. JS-Advanced-Unit-Testing-with-Mocha-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../9. JS-Advanced-Unit-Testing-with-Mocha-Exercises/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/2.Tickets.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="805">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,8 +61,8 @@
       <file leaf-file-name="5.ExtensibleClass.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.ExtensibleClass.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -156,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -171,6 +158,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -307,12 +295,22 @@
       <updated>1498720821302</updated>
       <workItem from="1498720828239" duration="1166000" />
       <workItem from="1498747632605" duration="10107000" />
-      <workItem from="1498827682715" duration="9742000" />
+      <workItem from="1498827682715" duration="9785000" />
+      <workItem from="1498885638330" duration="3000" />
+      <workItem from="1498885656375" duration="598000" />
     </task>
+    <task id="LOCAL-00001" summary="solutions">
+      <created>1498851847056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498851847056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21015000" />
+    <option name="totallyTimeSpent" value="21659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -342,11 +340,111 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="solutions" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.DataClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Tickets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.Unity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.LengthLimit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.ExtensibleClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.SortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.DataClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Tickets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.Unity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.LengthLimit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.ExtensibleClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.SortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -441,7 +539,7 @@
     <entry file="file://$PROJECT_DIR$/2.Tickets.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -464,8 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5.ExtensibleClass.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="391">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
