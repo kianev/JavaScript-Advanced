@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d1795f5-7efd-4166-8ecd-840fb438f0d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../13. JS-Advanced-Inheritance-Unit-Testing-Exercises/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../13. JS-Advanced-Inheritance-Unit-Testing-Exercises/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../13. JS-Advanced-Inheritance-Unit-Testing-Exercises/1.Balloons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../13. JS-Advanced-Inheritance-Unit-Testing-Exercises/2.People.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../13. JS-Advanced-Inheritance-Unit-Testing-Exercises/3.Posts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../10. JS-Advanced-Classes-and-Class-Members/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../10. JS-Advanced-Classes-and-Class-Members/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../12. JS-Advanced-Classes-and-Members-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../12. JS-Advanced-Classes-and-Members-Exercises/.idea/workspace.xml" />
