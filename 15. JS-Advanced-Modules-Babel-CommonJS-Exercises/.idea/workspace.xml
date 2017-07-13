@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e04e072-15a2-4270-98bc-e02908729a7d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/15. JS-Advanced-Modules-Babel-CommonJS-Exercises.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.PeopleModule/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.PeopleModule/employee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.PeopleModule/junior.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.PeopleModule/manager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.PeopleModule/senior.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.Branches/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.Branches/branch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.Branches/employee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.Turtles/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.Turtles/evkodianTurtle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.Turtles/galapagusTurtle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.Turtles/ninjaTurtle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.Turtles/turtle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.Turtles/waterturtle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.PeopleandPosts/person.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.PeopleandPosts/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PeopleModuleES6Harmony/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PeopleModuleES6Harmony/employee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PeopleModuleES6Harmony/junior.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PeopleModuleES6Harmony/manager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PeopleModuleES6Harmony/senior.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../11. JS-Advanced-Class-Inheritance-and-Prototypes/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../11. JS-Advanced-Class-Inheritance-and-Prototypes/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../12. JS-Advanced-Classes-and-Members-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../12. JS-Advanced-Classes-and-Members-Exercises/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../14. JS-Advanced-Modules-Babel-RequireJS/4.Inheritance/entity.js" afterPath="$PROJECT_DIR$/../14. JS-Advanced-Modules-Babel-RequireJS/4.Inheritance/entity.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../9. JS-Advanced-Unit-Testing-with-Mocha-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../9. JS-Advanced-Unit-Testing-with-Mocha-Exercises/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.PeopleandPosts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.PeopleandPosts/person.js" afterPath="$PROJECT_DIR$/4.PeopleandPosts/person.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.PeopleandPosts/post.js" afterPath="$PROJECT_DIR$/4.PeopleandPosts/post.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,11 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="person.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="person.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.PeopleandPosts/person.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="276">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -60,8 +33,18 @@
       <file leaf-file-name="post.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.PeopleandPosts/post.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.PeopleandPosts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,8 +88,9 @@
         <option value="$PROJECT_DIR$/3.Turtles/galapagusTurtle.js" />
         <option value="$PROJECT_DIR$/3.Turtles/evkodianTurtle.js" />
         <option value="$PROJECT_DIR$/3.Turtles/ninjaTurtle.js" />
-        <option value="$PROJECT_DIR$/4.PeopleandPosts/post.js" />
         <option value="$PROJECT_DIR$/4.PeopleandPosts/person.js" />
+        <option value="$PROJECT_DIR$/4.PeopleandPosts/post.js" />
+        <option value="$PROJECT_DIR$/4.PeopleandPosts/app.js" />
       </list>
     </option>
   </component>
@@ -308,12 +292,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499923601623</updated>
-      <workItem from="1499923603778" duration="10502000" />
+      <workItem from="1499923603778" duration="11430000" />
     </task>
+    <task id="LOCAL-00001" summary="solutions">
+      <created>1499945963561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499945963561</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10502000" />
+    <option name="totallyTimeSpent" value="11430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -342,6 +334,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -550,18 +546,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.PeopleandPosts/post.js">
+    <entry file="file://$PROJECT_DIR$/4.PeopleandPosts/person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="276">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.PeopleandPosts/person.js">
+    <entry file="file://$PROJECT_DIR$/4.PeopleandPosts/post.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="391">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PeopleandPosts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
