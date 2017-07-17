@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Builder</title>
+    <style>td,th { background:#DDD; padding:5px }</style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="main"></div>
+<script>
+    function tableBuilder(selector) {
+        let container = $(selector);
+
+        return {
+            createTable: function (arr) {
+                container.empty();
+                let table = $("<table>");
+                let row = $("<tr>");
+                for (let column of arr) {
+                    let col = $("<th>");
+                    col.text(column);
+                    row.append(col);
+                }
+
+                let actionCol = $("<th>");
+                actionCol.text("Action");
+                row.append(actionCol);
+                row.appendTo(table);
+                container.append(table);
+            },
+            
+            fillData: function (rows) {
+                let table = container.find("table");
+                for (let row of rows) {
+                    let tr = $("<tr>");
+                    for (let el of row) {
+                        let td = $("<td>");
+                        td.text(el);
+                        tr.append(td);
+                    }
+                    let delTd = $("<td>");
+                    let button = $("<button>");
+                    button.text("Delete");
+                    delTd.append(button);
+                    tr.append(delTd);
+                    tr.appendTo(table);
+                }
+                
+                $("button").on("click", function () {
+                    $(this).parent().parent().remove();
+                })
+            }
+        }
+    }
+
+</script>
+<script>
+    $(function() {
+        let builder = tableBuilder("#main");
+        builder.createTable(['Name', 'Town']);
+        builder.fillData([
+            ['Maria', 'Sofia'],
+            ['Kiril', 'Varna'],
+            ['Ani <new>', 'Ruse'],
+        ]);
+    });
+</script>
+</body>
+</html>
