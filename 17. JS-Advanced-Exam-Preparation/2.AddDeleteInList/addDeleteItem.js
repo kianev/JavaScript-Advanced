@@ -17,7 +17,7 @@ function produce(){
             return data.join(", ");
         }
     };
-};
+}
 
 
 
@@ -46,7 +46,7 @@ describe("list", function() {
             list.add("pesho");
             list.add("gosho");
             list.add("stamat");
-            expect(list.toString()).to.equal("pesho, gosho, stamat", "Method add faild to add item to the list");
+            expect(list.toString()).to.equal("pesho, stamat, gosho", "Method add faild to add item to the list");
         });
         it("Should add correct amount of item to the list", function () {
             list.add("pesho");
