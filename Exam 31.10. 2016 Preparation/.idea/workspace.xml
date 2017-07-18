@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aa67a20-1ba2-46d9-8141-5fdb9e8bd189" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Exam 31.10. 2016 Preparation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.Summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.SortedList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.StormWatcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.TitleBar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.TitleBar/title-bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../12. JS-Advanced-Classes-and-Members-Exercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../12. JS-Advanced-Classes-and-Members-Exercises/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../17. JS-Advanced-Exam-Preparation/2.AddDeleteInList/addDeleteItem.js" afterPath="$PROJECT_DIR$/../17. JS-Advanced-Exam-Preparation/2.AddDeleteInList/addDeleteItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20. JS-Advanced-Error-Handling-Exceptions-Exercises/.idea/20. JS-Advanced-Error-Handling-Exceptions-Exercises.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20. JS-Advanced-Error-Handling-Exceptions-Exercises/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20. JS-Advanced-Error-Handling-Exceptions-Exercises/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20. JS-Advanced-Error-Handling-Exceptions-Exercises/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20. JS-Advanced-Error-Handling-Exceptions-Exercises/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -293,8 +286,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500296213870</updated>
-      <workItem from="1500296217474" duration="12769000" />
+      <workItem from="1500296217474" duration="12927000" />
     </task>
+    <task id="LOCAL-00001" summary="solutions">
+      <created>1500379515087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500379515087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -330,7 +331,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12769000" />
+    <option name="totallyTimeSpent" value="12927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -359,6 +360,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
